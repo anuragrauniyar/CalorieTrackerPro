@@ -28,4 +28,4 @@ To use the Calorie Counter, follow these steps:
  to view the live demo.
 
 ## Screenshots
-![CalorieTrackerPro](/screenshot/Screenshot%202024-12-22%20234707.png)
+![CalorieTrackerPro](https://github.com/user-attachments/assets/29c0be01-3655-4f23-874b-8deb9292dfe1)
