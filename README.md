@@ -24,7 +24,7 @@ To use the Calorie Counter, follow these steps:
 4. Use the "Clear" button to reset all fields and start over.
 
 ## Demo
-[Click here]([https://anuragrauniyar.github.io/CalorieTrackerPro]) to view the live demo.
+[Click here](https://anuragrauniyar.github.io/CalorieTrackerPro) to view the live demo.
 
 ## Screenshots
 ![CalorieTrackerPro](https://github.com/user-attachments/assets/29c0be01-3655-4f23-874b-8deb9292dfe1)
